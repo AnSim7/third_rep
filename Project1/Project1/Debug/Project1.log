@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\susu\теория графов\main\project1\project1\source.cpp(1057): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+d:\susu\теория графов\main\project1\project1\source.cpp(743): warning C4715: ListOfEdges::changeEdge: значение возвращается не при всех путях выполнения
+d:\susu\теория графов\main\project1\project1\source.cpp(454): warning C4715: AdjLists::changeEdge: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\susu\теория графов\main\Project1\Debug\Project1.exe

@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtree(1345): error C2100: недопустимое косвенное обращение
+  d:\susu\теория графов\main\project1\project1\source.cpp(153): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::insert<int>(_Iter,_Iter)"
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
+  d:\susu\теория графов\main\project1\project1\source.cpp(153): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::insert<int>(_Iter,_Iter)"
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
